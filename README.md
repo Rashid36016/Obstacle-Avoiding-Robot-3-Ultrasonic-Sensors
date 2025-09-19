@@ -10,8 +10,7 @@ Highlights
 
 Libraries of Arduino IDE
 1. Adafruit Motor Shield (by Adafruit)
-#You can install it in Arduino IDE via: Sketch → Include Library → Manage Libraries → Search “AFMotor” → Install “Adafruit Motor Shield” (by Adafruit).
-
+#You can install it in Arduino IDE via:1.	Sketch → Include Library → Manage Libraries → Search “Adafruit Motor Shield” → Install “Adafruit Motor Shield Library” (by Adafruit).
 
 Hardware & Libraries
 1. DC gear motors ×4
