@@ -1,5 +1,6 @@
-##Library name:
+#Library name:
 1. Adafruit Motor Shield (by Adafruit)
 Installation process (in Arduino IDE):
 1. Sketch → Include Library → Manage Libraries → Search “Adafruit Motor Shield” → Install
 “Adafruit Motor Shield Library” (by Adafruit).
+
