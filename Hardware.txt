@@ -1,0 +1,16 @@
+Hardware List:
+1. Arduino Uno
+2. Adafruit Motor Shield v1 (L293D-based)
+3. DC Gear Motors ×4
+4. Ultrasonic Sensors (HC-SR04) ×3
+5. Chassis
+6. Wheels ×4
+7. Battery Pack (6–12 V for motors, e.g. Li-ion / NiMH / 9V battery pack, depending on motor rating)
+8. Jumper wires (male–male, male–female) — for sensor and power connections
+9. Mount brackets for ultrasonic sensors (Optional)- to hold Left/Center/Right sensors at proper angle
+10. Switch (optional) — to easily power on/off the robot
+11. Breadboard (optional) — for easy wiring if not soldering
+
+
+Tip: Keep the three ultrasonic sensors at about 30–45° angles from each other for better
+obstacle detection.
